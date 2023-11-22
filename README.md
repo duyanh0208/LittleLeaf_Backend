@@ -5,10 +5,10 @@ Backend BTL môn Các vấn đề hiện đại CNTT
 ```
 DB_CONNECTION=mysql
 DB_HOST=localhost
-DB_PORT=3307
+DB_PORT=...
 DB_DATABASE=littleleaf
-DB_USERNAME=root
-DB_PASSWORD=duyanh
+DB_USERNAME=...
+DB_PASSWORD=...
 ```
 
 2. Install package.json (via `composer`)
